@@ -2,6 +2,7 @@
  Game sdl2 c++
 # Thông tin sinh viên 
  Họ và tên : Đặng Thu Phương
+
  Mã sinh viên : 23020638
 # Giới thiệu
  Snake là game rắn săn mồi quen thuộc với mọi người .
