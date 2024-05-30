@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1716982879 source:d:\snake\snake\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1716981360 source:d:\snake\snake\win_over.cpp
+
+1716981780 source:d:\snake\snake\base.cpp
+	"base.h"
+
+1716981780 d:\snake\snake\base.h
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1716981815 d:\snake\snake\win_over.h
+	"base.h"
+	<iostream>
+	<vector>
+	<string>
+	<ctime>
+	<SDL.h>
+	<SDL_ttf.h>
+
